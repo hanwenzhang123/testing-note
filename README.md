@@ -4,7 +4,7 @@
 - learning source: https://www.udemy.com/course/testing-react-and-redux-applications-unit-and-integration
 
 ## Redux Recap
-![Redux Diagram](redux-diagram)
+![Redux Diagram](redux-diagram.png)
 - In React, UI built from React Components which then get rendered into DOM.
 - From UI, users take actions and dispatch actions then triggers reducers.
 
